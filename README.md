@@ -5,8 +5,6 @@
 **I build technology, I write worlds.**<br>
 _Construyo tecnología, redacto mundos._
 
-[yo.onca-vega.com](https://yo.onca-vega.com/) · [Onca Vega Sello Editorial](https://sello-editorial.onca-vega.com/) · [Ingeniería](https://ingenieria.onca-vega.com/) · [Apps](https://yo.onca-vega.com/aplicaciones/)
-
 [English](#english) · [Español](#español)
 
 </div>
@@ -14,6 +12,12 @@ _Construyo tecnología, redacto mundos._
 ---
 
 ## English
+
+<div align="center">
+
+[Onca Vega · The Brand](https://yo.onca-vega.com/en/?portal=aplicaciones) · [Onca Vega · Editorial Imprint](https://sello-editorial.onca-vega.com/en/) · [Engineering](https://ingenieria.onca-vega.com/en/) · [Apps](https://yo.onca-vega.com/en/aplicaciones/)
+
+</div>
 
 ### One brand, three portals
 
@@ -86,6 +90,12 @@ Validated ideas waiting their turn: management tools for people running events a
 ---
 
 ## Español
+
+<div align="center">
+
+[Onca Vega · La Marca](https://yo.onca-vega.com/?portal=aplicaciones) · [Onca Vega · Sello Editorial](https://sello-editorial.onca-vega.com/) · [Ingeniería](https://ingenieria.onca-vega.com/) · [Aplicaciones](https://yo.onca-vega.com/aplicaciones/)
+
+</div>
 
 ### Una marca, tres portales
 
