@@ -15,13 +15,13 @@ _Construyo tecnología, redacto mundos._
 
 <div align="center">
 
-[Onca Vega · The Brand](https://yo.onca-vega.com/en/?portal=aplicaciones) · [Onca Vega · Editorial Imprint](https://sello-editorial.onca-vega.com/en/) · [Engineering](https://ingenieria.onca-vega.com/en/) · [Apps](https://yo.onca-vega.com/en/aplicaciones/)
+[Onca Vega · The Brand](https://yo.onca-vega.com/en/?portal=aplicaciones) · [Onca Vega · Press](https://sello-editorial.onca-vega.com/en/) · [Engineering](https://ingenieria.onca-vega.com/en/) · [Apps](https://yo.onca-vega.com/en/aplicaciones/)
 
 </div>
 
 ### One brand, three portals
 
-**Onca Vega** is the personal brand of Marcos Vega — Mechatronics engineer, professional developer for over eight years, and writer. It isn't a resume: it's a single brand that expresses itself through three portals, each one a different way of solving problems.
+**Onca Vega** is the personal brand of Marcos Vega — Mechatronics engineer, professional developer for over nine years, and writer. It isn't a resume: it's a single brand that expresses itself through three portals, each one a different way of solving problems.
 
 | Portal             | What lives there                               | Link                                                                          |
 | ------------------ | ---------------------------------------------- | ----------------------------------------------------------------------------- |
@@ -48,7 +48,7 @@ Bilingual website for a dance school: disciplines, teachers, performances and en
 
 <a href="https://www.academialuzdeluna.com/en/"><img src="https://yo.onca-vega.com/apps/academialuzdeluna/poster.png" alt="Preview of the Academia Luz de Luna website" width="600"></a>
 
-#### Onca Vega Editorial Imprint
+#### Onca Vega Press
 
 `Our brand's product` · Publishing imprint · Platform
 
@@ -57,7 +57,7 @@ A Mexican imprint, formed by a team, that publishes cosmic horror, science ficti
 **Stack:** Astro · Vue 3 · TypeScript · Tailwind CSS · NestJS · Prisma<br>
 **Visit:** [sello-editorial.onca-vega.com](https://sello-editorial.onca-vega.com/en/)
 
-<a href="https://sello-editorial.onca-vega.com/en/"><img src="https://yo.onca-vega.com/apps/oncavegaselloeditorial/poster.png" alt="Preview of the Onca Vega Editorial Imprint website" width="600"></a>
+<a href="https://sello-editorial.onca-vega.com/en/"><img src="https://yo.onca-vega.com/apps/oncavegaselloeditorial/poster.png" alt="Preview of the Onca Vega Press website" width="600"></a>
 
 <!--
   New product template — copy, fill in and place it above the most recent one
@@ -99,7 +99,7 @@ Validated ideas waiting their turn: management tools for people running events a
 
 ### Una marca, tres portales
 
-**Onca Vega** es la marca personal de Marcos Vega: ingeniero en Mecatrónica, desarrollador de profesión desde hace más de ocho años y escritor. No es un currículum: es una sola marca que se expresa a través de tres portales, cada uno una manera distinta de resolver problemas.
+**Onca Vega** es la marca personal de Marcos Vega: ingeniero en Mecatrónica, desarrollador de profesión desde hace más de nueve años y escritor. No es un currículum: es una sola marca que se expresa a través de tres portales, cada uno una manera distinta de resolver problemas.
 
 | Portal             | Qué vive ahí                                     | Enlace                                                                  |
 | ------------------ | ------------------------------------------------ | ----------------------------------------------------------------------- |
