@@ -15,7 +15,7 @@ _Construyo tecnología, redacto mundos._
 
 <div align="center">
 
-[Onca Vega · The Brand](https://yo.onca-vega.com/en/?portal=aplicaciones) · [Onca Vega · Press](https://sello-editorial.onca-vega.com/en/) · [Engineering](https://ingenieria.onca-vega.com/en/) · [Apps](https://yo.onca-vega.com/en/aplicaciones/)
+[Onca Vega · The Brand](https://www.onca-vega.com/en/?portal=aplicaciones) · [Onca Vega · Press](https://sello-editorial.onca-vega.com/en/) · [Engineering](https://ingenieria.onca-vega.com/en/) · [Apps](https://www.onca-vega.com/en/aplicaciones/)
 
 </div>
 
@@ -27,9 +27,9 @@ _Construyo tecnología, redacto mundos._
 | ------------------ | ---------------------------------------------- | ----------------------------------------------------------------------------- |
 | ✒️ **Write**       | Publishing house · Novels · Worlds to discover | [sello-editorial.onca-vega.com](https://sello-editorial.onca-vega.com/en/)    |
 | 💻 **Develop**     | Engineering · Web applications · 3D            | [ingenieria.onca-vega.com](https://ingenieria.onca-vega.com/en/)              |
-| 🧩 **Systematize** | Digital platforms · Products · AI              | [yo.onca-vega.com/en/aplicaciones](https://yo.onca-vega.com/en/aplicaciones/) |
+| 🧩 **Systematize** | Digital platforms · Products · AI              | [www.onca-vega.com/en/aplicaciones](https://www.onca-vega.com/en/aplicaciones/) |
 
-The root portal, **[yo.onca-vega.com](https://yo.onca-vega.com/en/)**, connects all three.
+The root portal, **[www.onca-vega.com](https://www.onca-vega.com/en/)**, connects all three.
 
 > _Engineer by day, writer underneath — the same person solving different problems._
 
@@ -46,7 +46,7 @@ Bilingual website for a dance school: disciplines, teachers, performances and en
 **Stack:** Astro · Svelte 5 · TypeScript · Tailwind CSS v4<br>
 **Visit:** [academialuzdeluna.com](https://www.academialuzdeluna.com/en/)
 
-<a href="https://www.academialuzdeluna.com/en/"><img src="https://yo.onca-vega.com/apps/academialuzdeluna/poster.png" alt="Preview of the Academia Luz de Luna website" width="600"></a>
+<a href="https://www.academialuzdeluna.com/en/"><img src="https://www.onca-vega.com/apps/academialuzdeluna/poster.png" alt="Preview of the Academia Luz de Luna website" width="600"></a>
 
 #### Onca Vega Press
 
@@ -57,11 +57,11 @@ A Mexican imprint, formed by a team, that publishes cosmic horror, science ficti
 **Stack:** Astro · Vue 3 · TypeScript · Tailwind CSS · NestJS · Prisma<br>
 **Visit:** [sello-editorial.onca-vega.com](https://sello-editorial.onca-vega.com/en/)
 
-<a href="https://sello-editorial.onca-vega.com/en/"><img src="https://yo.onca-vega.com/apps/oncavegaselloeditorial/poster.png" alt="Preview of the Onca Vega Press website" width="600"></a>
+<a href="https://sello-editorial.onca-vega.com/en/"><img src="https://www.onca-vega.com/apps/oncavegaselloeditorial/poster.png" alt="Preview of the Onca Vega Press website" width="600"></a>
 
 <!--
   New product template — copy, fill in and place it above the most recent one
-  (also add it to the Spanish section below and to yo.onca-vega.com/aplicaciones):
+  (also add it to the Spanish section below and to www.onca-vega.com/aplicaciones):
 
 #### Product name
 `Our brand's product | Client project` · Category · Type
@@ -71,7 +71,7 @@ One or two sentences: what it is, who it's for, what it solves.
 **Stack:** …<br>
 **Visit:** [domain](https://…)
 
-<a href="https://…"><img src="https://yo.onca-vega.com/apps/<folder>/poster.png" alt="Preview of …" width="600"></a>
+<a href="https://…"><img src="https://www.onca-vega.com/apps/<folder>/poster.png" alt="Preview of …" width="600"></a>
 -->
 
 #### In the queue
@@ -85,7 +85,7 @@ Validated ideas waiting their turn: management tools for people running events a
 
 ### Find me
 
-[Website](https://yo.onca-vega.com/en/) · [LinkedIn](https://www.linkedin.com/in/marcos-jesus-chavez-vega-onca) · [Instagram](https://www.instagram.com/oncavega/) · [TikTok](https://www.tiktok.com/@oncavega) · [Facebook](https://www.facebook.com/oncavega)
+[Website](https://www.onca-vega.com/en/) · [LinkedIn](https://www.linkedin.com/in/marcos-jesus-chavez-vega-onca) · [Instagram](https://www.instagram.com/oncavega/) · [TikTok](https://www.tiktok.com/@oncavega) · [Facebook](https://www.facebook.com/oncavega)
 
 ---
 
@@ -93,7 +93,7 @@ Validated ideas waiting their turn: management tools for people running events a
 
 <div align="center">
 
-[Onca Vega · La Marca](https://yo.onca-vega.com/?portal=aplicaciones) · [Onca Vega · Sello Editorial](https://sello-editorial.onca-vega.com/) · [Ingeniería](https://ingenieria.onca-vega.com/) · [Aplicaciones](https://yo.onca-vega.com/aplicaciones/)
+[Onca Vega · La Marca](https://www.onca-vega.com/?portal=aplicaciones) · [Onca Vega · Sello Editorial](https://sello-editorial.onca-vega.com/) · [Ingeniería](https://ingenieria.onca-vega.com/) · [Aplicaciones](https://www.onca-vega.com/aplicaciones/)
 
 </div>
 
@@ -105,9 +105,9 @@ Validated ideas waiting their turn: management tools for people running events a
 | ------------------ | ------------------------------------------------ | ----------------------------------------------------------------------- |
 | ✒️ **Escribo**     | Sello editorial · Novelas · Mundos por descubrir | [sello-editorial.onca-vega.com](https://sello-editorial.onca-vega.com/) |
 | 💻 **Desarrollo**  | Ingeniería · Aplicaciones web · 3D               | [ingenieria.onca-vega.com](https://ingenieria.onca-vega.com/)           |
-| 🧩 **Sistematizo** | Plataformas digitales · Productos · IA           | [yo.onca-vega.com/aplicaciones](https://yo.onca-vega.com/aplicaciones/) |
+| 🧩 **Sistematizo** | Plataformas digitales · Productos · IA           | [www.onca-vega.com/aplicaciones](https://www.onca-vega.com/aplicaciones/) |
 
-El portal raíz, **[yo.onca-vega.com](https://yo.onca-vega.com/)**, conecta los tres.
+El portal raíz, **[www.onca-vega.com](https://www.onca-vega.com/)**, conecta los tres.
 
 > _Ingeniero de día, escritor de fondo — la misma persona resolviendo problemas distintos._
 
@@ -124,7 +124,7 @@ Sitio bilingüe para una escuela de danza: disciplinas, docentes, funciones e in
 **Stack:** Astro · Svelte 5 · TypeScript · Tailwind CSS v4<br>
 **Visitar:** [academialuzdeluna.com](https://www.academialuzdeluna.com/)
 
-<a href="https://www.academialuzdeluna.com/"><img src="https://yo.onca-vega.com/apps/academialuzdeluna/poster.png" alt="Vista del sitio web de Academia Luz de Luna" width="600"></a>
+<a href="https://www.academialuzdeluna.com/"><img src="https://www.onca-vega.com/apps/academialuzdeluna/poster.png" alt="Vista del sitio web de Academia Luz de Luna" width="600"></a>
 
 #### Onca Vega Sello Editorial
 
@@ -135,11 +135,11 @@ Un sello mexicano formado por un equipo que publica horror cósmico, ciencia fic
 **Stack:** Astro · Vue 3 · TypeScript · Tailwind CSS · NestJS · Prisma<br>
 **Visitar:** [sello-editorial.onca-vega.com](https://sello-editorial.onca-vega.com/)
 
-<a href="https://sello-editorial.onca-vega.com/"><img src="https://yo.onca-vega.com/apps/oncavegaselloeditorial/poster.png" alt="Vista del sitio web de Onca Vega Sello Editorial" width="600"></a>
+<a href="https://sello-editorial.onca-vega.com/"><img src="https://www.onca-vega.com/apps/oncavegaselloeditorial/poster.png" alt="Vista del sitio web de Onca Vega Sello Editorial" width="600"></a>
 
 <!--
   Plantilla para un producto nuevo — copiar, llenar y colocar encima del más reciente
-  (también agregarlo a la sección en inglés y a yo.onca-vega.com/aplicaciones):
+  (también agregarlo a la sección en inglés y a www.onca-vega.com/aplicaciones):
 
 #### Nombre del producto
 `Producto de nuestra marca | Proyecto para cliente` · Categoría · Tipo
@@ -149,7 +149,7 @@ Una o dos frases: qué es, para quién, qué resuelve.
 **Stack:** …<br>
 **Visitar:** [dominio](https://…)
 
-<a href="https://…"><img src="https://yo.onca-vega.com/apps/<carpeta>/poster.png" alt="Vista de …" width="600"></a>
+<a href="https://…"><img src="https://www.onca-vega.com/apps/<carpeta>/poster.png" alt="Vista de …" width="600"></a>
 -->
 
 #### En la cola
@@ -163,4 +163,4 @@ Ideas ya validadas esperando su turno: herramientas de gestión para quienes org
 
 ### Encuéntrame
 
-[Sitio web](https://yo.onca-vega.com/) · [LinkedIn](https://www.linkedin.com/in/marcos-jesus-chavez-vega-onca) · [Instagram](https://www.instagram.com/oncavega/) · [TikTok](https://www.tiktok.com/@oncavega) · [Facebook](https://www.facebook.com/oncavega)
+[Sitio web](https://www.onca-vega.com/) · [LinkedIn](https://www.linkedin.com/in/marcos-jesus-chavez-vega-onca) · [Instagram](https://www.instagram.com/oncavega/) · [TikTok](https://www.tiktok.com/@oncavega) · [Facebook](https://www.facebook.com/oncavega)
